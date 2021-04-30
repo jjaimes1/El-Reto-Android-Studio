@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navItemUser"
+        android:title="@string/navTextUser"
+        android:icon="@drawable/person"
+        android:visible="true"
+        />
+
+    <item
+        android:id="@+id/navItemTerritorios"
+        android:title="@string/navTextTerritorios"
+        android:icon="@drawable/home"
+        android:visible="true"
+        />
+
+    <item
+        android:id="@+id/navItemAjustes"
+        android:title="@string/navTextAjustes"
+        android:icon="@drawable/settings"
+        />
+</menu>

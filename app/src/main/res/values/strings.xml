@@ -13,4 +13,7 @@
     <string name="vCardTxtPEsp">Puntos Esp.</string>
     <string name="vCardVic">Victorias</string>
     <string name="vCardTxtDer">Derrotas</string>
+    <string name="navTextUser">Usuario</string>
+    <string name="navTextTerritorios">Territorios</string>
+    <string name="navTextAjustes">Ajustes</string>
 </resources>
