@@ -4,4 +4,9 @@
     <string name="v1TxtPassword">Password</string>
     <string name="v1BtnLog">Log Acount</string>
     <string name="v1BtnCreate">Create Acount</string>
+    <string name="vInfoTitulo">Informacion</string>
+    <string name="vInfoTexto">informacion general y de contacto sobre la aplicacion \n
+    asdasgasasgadgasdgasdghasdg asdg asg asgasdas
+    dgas dtgasdfgas gaerg
+    erg awr tgawgagawg awg</string>
 </resources>
