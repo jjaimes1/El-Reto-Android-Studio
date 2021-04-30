@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">ElRetoV1</string>
+    <string name="v1TxtUser">User</string>
+    <string name="v1TxtPassword">Password</string>
+    <string name="v1BtnLog">Log Acount</string>
+    <string name="v1BtnCreate">Create Acount</string>
 </resources>
