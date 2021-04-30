@@ -9,4 +9,8 @@
     asdasgasasgadgasdgasdghasdg asdg asg asgasdas
     dgas dtgasdfgas gaerg
     erg awr tgawgagawg awg</string>
+    <string name="vCardTxtP">Puntos</string>
+    <string name="vCardTxtPEsp">Puntos Esp.</string>
+    <string name="vCardVic">Victorias</string>
+    <string name="vCardTxtDer">Derrotas</string>
 </resources>
