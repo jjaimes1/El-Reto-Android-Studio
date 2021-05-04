@@ -16,4 +16,9 @@
     <string name="navTextUser">Usuario</string>
     <string name="navTextTerritorios">Territorios</string>
     <string name="navTextAjustes">Ajustes</string>
+    <string name="vCreacioUsCorreo">Correo electronio</string>
+    <string name="vCreacioUsNombre">Nombre</string>
+    <string name="vCreacioUsPassword">Contraseña</string>
+    <string name="vCreacioUsPassword2">Verifique contraseña</string>
+    <string name="vCreacioUsBtn">crear</string>
 </resources>
