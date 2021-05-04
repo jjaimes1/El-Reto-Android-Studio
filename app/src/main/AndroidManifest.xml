@@ -9,6 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
+        <activity android:name=".VentanaPrincipal"></activity>
         <activity android:name=".CreacionUsuario">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -16,10 +17,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".FragmentsActivity">
-
-        </activity>
-        <activity android:name=".CardActivity"></activity>
+        <activity android:name=".FragmentsActivity"></activity>
+        <activity android:name=".CardActivity" />
         <activity android:name=".VentanaInfo" />
         <activity android:name=".MainActivity" />
     </application>

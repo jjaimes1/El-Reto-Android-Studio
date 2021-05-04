@@ -21,4 +21,7 @@
     <string name="vCreacioUsPassword">Contraseña</string>
     <string name="vCreacioUsPassword2">Verifique contraseña</string>
     <string name="vCreacioUsBtn">crear</string>
+    <string name="vPrincipalComenzar">Empezar</string>
+    <string name="vPrincipalManual">Manual</string>
+    <string name="vPrincipalAjustes">Ajustes</string>
 </resources>

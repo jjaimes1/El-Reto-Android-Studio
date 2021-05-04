@@ -73,8 +73,8 @@
 
     <ImageView
         android:id="@+id/v1ImgInfo"
-        android:layout_width="30dp"
-        android:layout_height="30dp"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
         app:srcCompat="@drawable/icoinfo"
         android:layout_gravity="right"
         />
