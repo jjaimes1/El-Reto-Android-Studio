@@ -63,10 +63,18 @@
         />
 
     <Button
-        android:id="@+id/button"
+        android:id="@+id/vCreacioUsBtnCreacio"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="@string/vCreacioUsBtn"
+        android:layout_marginTop="20dp"
+        />
+
+    <Button
+        android:id="@+id/vCreacioUsBtnLogConCuenta"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/vCreacioUsBtnLogConCuenta"
         android:layout_marginTop="20dp"
         />
 

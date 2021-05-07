@@ -24,4 +24,6 @@
     <string name="vPrincipalComenzar">Empezar</string>
     <string name="vPrincipalManual">Manual</string>
     <string name="vPrincipalAjustes">Ajustes</string>
+    <string name="vCreacioUsBtnLogConCuenta">Log con cuenta</string>
+    <string name="vManual">introducir texto del manual de usuario</string>
 </resources>

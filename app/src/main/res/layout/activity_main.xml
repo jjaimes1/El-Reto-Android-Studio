@@ -24,7 +24,7 @@
         android:layout_height="30dp"
         />
 
-    <TextView
+    <EditText
         android:id="@+id/v1TextUser"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -36,12 +36,11 @@
         android:layout_height="30dp"
         />
 
-    <TextView
+    <EditText
         android:id="@+id/v1Password"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:password="true"
-
+        android:inputType="textPassword"
         android:hint="@string/v1TxtPassword"
         android:textSize="30sp" />
 
