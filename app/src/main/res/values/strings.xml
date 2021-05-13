@@ -25,5 +25,42 @@
     <string name="vPrincipalManual">Manual</string>
     <string name="vPrincipalAjustes">Ajustes</string>
     <string name="vCreacioUsBtnLogConCuenta">Log con cuenta</string>
-    <string name="vManual">introducir texto del manual de usuario</string>
+
+    <string name="vManual1">Introduccion al juego</string>
+    <string name="vManual2">
+        Como base, todos los jugadores comienzan con 30 puntos,
+        cada accion requiere puntos, tanto realizar, desafios, retar y crear territorios.
+    </string>
+    <string name="vManual3">Costes en puntos (P)</string>
+    <string name="vManual4">
+        - 1 punto desafiar a un jugador \n
+        - 2 puntos desafiar un territorio  \n
+        - 10 puntos crear un territorio con un reto  \n
+        \t    - 5 puntos ampliar el territorio \n
+        \t    - 5 puntos más por cada espacio para añadir un reto \n
+        - 5 puntos crear un reto individual, se consume por cada uso
+    </string>
+    <string name="vManual5">Pecompensas en puntos:</string>
+    <string name="vManual6">
+        - puntos por desafiar: \n
+        \t - 1 punto por un reto fácil \n
+        \t - 2 puntos por un reto normal \n
+        \t - 4 puntos por un reto difícil \n
+        - puntos por territorio, por cada vez que alguien NO consigue resolver tu reto: \n
+        \t - 3 puntos en fácil \n
+        \t - 5 puntos en normal \n
+        \t - 7 puntos en difícil
+    </string>
+    <string name="vManual7">Pérdida de puntos:</string>
+    <string name="vManual8">
+        - puntos por desafío perdido: \n
+        \t -1 punto por un reto fácil \n
+        \t -2 puntos por un reto normal \n
+        \t -4 puntos por un reto difícil \n
+        - puntos por territorio,  por cada vez que alguien SI consigue resolver tu reto: \n
+        \t -2 puntos en fácil \n
+        \t -4 puntos en normal \n
+        \t -5 puntos en difícil
+    </string>
+
 </resources>
